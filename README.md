@@ -8,15 +8,21 @@ index.html   deutsche Fassung (maßgeblich)
 en.html      englische Fassung — die Meta-Reviewer lesen Englisch
 ```
 
-## Vor der Veröffentlichung ausfüllen
+## Anschrift — ✅ eingetragen am 12.09.2026
 
-In **beiden** Dateien stehen Platzhalter für die Anschrift:
+Beide Dateien tragen jetzt die vollständige Anschrift des Verantwortlichen
+(Bruno Westphal, Ebertstraße 22b, 07743 Jena). Art. 13 DSGVO verlangt Identität und
+Kontaktdaten — anders als auf Angeboten lässt sich die Straße hier nicht weglassen.
 
-* `[STRASSE UND HAUSNUMMER]` / `[STREET AND NUMBER]`
-* `[PLZ]` / `[POSTCODE]`
+> ⚠️ **Damit steht die Wohnanschrift öffentlich und indexierbar im Netz.** Sobald es ein
+> Gewerbe mit eigener Geschäftsadresse gibt, hier ersetzen.
 
-Art. 13 DSGVO verlangt Identität und Kontaktdaten des Verantwortlichen. Anders als auf
-Angeboten lässt sich die Straße hier nicht weglassen.
+## Noch offen: Impressum
+
+Die Datenschutzerklärung ist **nicht** das Impressum. Sobald das Instagram-Angebot
+geschäftsmäßig ist (Giveaway → Discord → Angebot), greift zusätzlich die
+Impressumspflicht nach § 5 DDG — ein eigenes Dokument, andere Pflichtangaben.
+Kein Anwaltsrat, nur der Hinweis, dass es zwei Dinge sind.
 
 ## Inhaltlicher Abgleich mit dem Bot
 
